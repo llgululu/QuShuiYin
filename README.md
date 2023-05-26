@@ -1,6 +1,6 @@
 # 万能去水印，支持多个平台
 
-![微信小程序二维码](# 万能去水印，支持多个平台
+
 
 ![输入图片说明](https://gitee.com/Gulu_Lv/universal-watermark-removal/raw/master/gh_2a0a366062cd_430.jpg)
 
